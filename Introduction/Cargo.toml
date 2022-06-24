@@ -14,3 +14,7 @@ path="src/bin/weird_algorithm/weird_algorithm.rs"
 [[bin]]
 name="missing_number"
 path="src/bin/missing_number/missing_number.rs"
+
+[[bin]]
+name="repetitions"
+path="src/bin/repetitions/repetitions.rs"
